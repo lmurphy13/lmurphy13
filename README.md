@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Liam
 
-### An undergraduate student, upcoming graduate student, and software engineer from Chicago.
+### I am an undergraduate student, upcoming graduate student, and software engineer from Chicago.
 
 - 🎓 I am a senior at Marquette University studying Computer Science and Spanish. 
 
