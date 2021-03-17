@@ -6,7 +6,7 @@
 
 - Starting this summer, I will be continuing my education at Marquette in the accelerated M.S. Computing program with a concentration in Information Assurance & Cyber Defense. 
 
-- I will also start as a *Software Engineer I* at Astronautics Corporation of America.
+- I will start as a *Software Engineer I* at Astronautics Corporation of America in June 2021
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmurphy13" alt="lmurphy13" /> </p>
