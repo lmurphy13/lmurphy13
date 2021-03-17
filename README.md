@@ -6,7 +6,7 @@
 
 - 📚 Starting this summer, I will be continuing my education at Marquette in the accelerated M.S. Computing program with a concentration in Information Assurance & Cyber Defense. 
 
-- 💼 I will start as a Software Engineer I at Astronautics Corporation of America in June 2021.
+- 💼 I will start as a Software Engineer I at <a href="https://astronautics.com/">Astronautics</a> in June 2021.
 
 - 💻 I am interested in data & privacy ethics, embedded systems, and cybersecurity.
 
