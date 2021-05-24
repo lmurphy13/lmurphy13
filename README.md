@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Liam
 
-### I am an undergraduate student, upcoming graduate student, and software engineer from Chicago.
+### I am a graduate student and software engineer from Chicago.
 
-- 🎓 I am a senior at Marquette University studying Computer Science and Spanish. 
+- 🎓 I am recent graduate of Marquette University. In May 2021, I received my bachelor's degree in Computer Science with a minor in Spanish.
 
 - 📚 Starting this summer, I will be continuing my education at Marquette in the accelerated M.S. Computing program with a concentration in Information Assurance & Cyber Defense. 
 
