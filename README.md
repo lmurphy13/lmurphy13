@@ -11,6 +11,3 @@
 - 💻 I am interested in programming languages, data & privacy ethics, embedded systems, and cybersecurity.
 
 If you wish to contact me, please visit my <a href="https://www.liammurphy.me">website</a> or [email](mailto:liam.murphy@marquette.edu) me.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmurphy13" alt="lmurphy13" /> </p>
