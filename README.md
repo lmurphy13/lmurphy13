@@ -8,7 +8,7 @@
 
 - 💼 I started as a Software Engineer I at <a href="https://astronautics.com/">Astronautics</a> in June 2021.
 
-- 💻 I am interested in data & privacy ethics, embedded systems, and cybersecurity.
+- 💻 I am interested in programming languages, data & privacy ethics, embedded systems, and cybersecurity.
 
 If you wish to contact me, please visit my <a href="https://www.liammurphy.me">website</a> or [email](mailto:liam.murphy@marquette.edu) me.
 
