@@ -2,7 +2,7 @@
 
 ### I am a graduate student and software engineer from Chicago.
 
-- 🎓 I am a recent graduate of Marquette University. In May 2021, I received my bachelor's degree in Computer Science with a minor in Spanish.
+- 🎓 I am a graduate of Marquette University. In May 2021, I received my bachelor's degree in Computer Science with a minor in Spanish.
 
 - 📚 I am a graduate student at Marquette University in the M.S., Computing program with a specialization in Information Assurance & Cyber Defense. My area of research is compiler construction.
 
