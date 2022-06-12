@@ -2,9 +2,7 @@
 
 ### I am a graduate student and software engineer from Chicago.
 
-- 🎓 I am a graduate of Marquette University. In May 2021, I received my bachelor's degree in Computer Science with a minor in Spanish.
-
-- 📚 I am a graduate student at Marquette University in the M.S., Computing program with a specialization in Information Assurance & Cyber Defense. My area of research is compiler construction.
+- 🎓 I am a graduate of Marquette University. In May 2022, I earned my master's degree in Computring with a specialization in Information Assurance & Cyber Defense. My master's thesis was concerned with computer science education and compiler construction. In May 2021, I received my bachelor's degree in Computer Science with a minor in Spanish.
 
 - 💼 I started as a Software Engineer I at <a href="https://astronautics.com/">Astronautics</a> in June 2021.
 
