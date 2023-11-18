@@ -8,4 +8,4 @@
 
 - 💻 I am interested in programming languages, data & privacy ethics, embedded systems, and cybersecurity.
 
-If you wish to contact me, please visit my <a href="https://www.liammurphy.me">website</a> or [email](mailto:liammurphy513@gmail.com) me.
+If you wish to contact me, please [email](mailto:liammurphy513@gmail.com) me.
